@@ -1,0 +1,6 @@
+- FATTO --> Correggere monitor e updates adesso fuziniona sonlo come singolo cliente e spostare monitor e updates in administrator
+- inserire il numero del tavolo nella li del carrello
+- FATTO --> correggere la pagina degli ordini effettuati, non funziona correttamente. adesso non funziona sul mio
+- FATTO -->inserire loading message in chiamate semplici e agiornamento carrello
+- inserire numero elementi attraverso una combo, nel db i saranno i campi aggiuntivi min, max, step. gestibile da inseirmeto/modifica prodotto con default 1,20,1
+- inserire il client_id come prefisso dell'immagine sia tmp che finale, inserire client_id nella nome del file di backup

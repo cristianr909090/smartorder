@@ -1,0 +1,87 @@
+<?php
+define('_user', 'Utente');
+define('_FORGET_PASSWORD', 'Password dimenticata?');
+define('_ADMINISTRATION', 'Amministrazione');
+define('_Admin_Management', 'Admin: Gestione');
+define('_Products', 'Prodotti');
+define('_Products_list', 'Lista prodotti');
+define('_Close', 'Chiudi');
+define('_Not_registered_yet?', 'Non sei ancora registrato?');
+define('_Login_error, please try again', 'Errore di login, si prega di riprovare');
+define('_Summary', 'Riepilogo');
+define('_Requests', 'Richieste');
+define('_Management', 'Gestione');
+define('_Tab_Management', 'Sezioni');
+define('_Select_a_tab', 'Seleziona un TAB');
+define('_Category', 'Categorie');
+define('_List', 'Lista');
+define('_element', 'elemento');
+define('_Today', 'Oggi');
+define('_Last_30_days', 'Ultimi 30gg');
+define('_From_the_beginning', "Dall'inizio");
+$None_visible_menu='Nessuno Menu visibile';
+$Main_menu='Menu principale';
+$Right_menu='Menu a destra';
+define('_Product_name', 'Nome Prodotto:');
+define('_Product_print_name', 'Testo per stampa (se non specificato verrà utilizzato il nome)');
+define('_Price', 'Prezzo');
+define('_Visibility', 'Visibilità');
+define('_Enable_note', 'abilita note');
+define('_Short_description', 'Descrizione breve');
+define('_Long_description', 'Descrizione lunga');
+define('_Long_english_description', 'Descrizione lunga in inglese');
+define('_Minimum_qty', 'Qtà minima');
+define('_Maximum_qty', 'Qtà massima');
+define('_Change_image', 'Cambia immagine');
+define('_Save', 'Salva');
+define('_Change_product', 'Modifica prodotto');
+define('_Insert_product', 'Inserisci prodotto');
+define('_Tree_list', 'Lista ad albero');
+define('_Flat_list', 'Lista piana');
+define('_Order_qty', 'Q.tà Ordini');
+define('_Call_qty', 'Q.tà Chiamate');
+define('_Quick_links', 'Link rapidi');
+define('_Add_to_list', 'Aggiungi alla lista');
+define('_Add_to_cart', 'Aggiungi al carrello');
+define('_Detail', 'dettaglio');
+define('_Order', 'Ordina');
+define('_Continue', 'Prosegui');
+define('_Activate_an_account', 'Attiva account');
+define('_Call_waiter', 'Chiama Cameriere');
+define('_Ask_for_the_bill', 'Chiedi il conto');
+
+define('_Order_History', 'Storico Ordini');
+define('_Table', 'Tavolo');
+define('_Time', 'Data Ora');
+define('_Name', 'Nome');
+define('_Position', 'Posizione');
+define('_Sequence', 'Ordine');
+define('_Type', 'Tipo');
+define('_Edit', 'Modifica');
+define('_Add', 'Aggiungi');
+define('_Delete', 'Cancella');
+define('_Main', 'Menu principale');
+define('_Main_menu', 'Menu principale');
+define('_Right_menu', 'Menu di destra');
+define('_New_Menu', 'Nuova sezione');
+define('_Step_qty', 'Passo');
+define('_Select_from_server', 'Seleziona da galleria');
+define('_Delete_Category', 'Cancella categoria');
+define('_Confirm', 'Conferma');
+define('_No', 'Annulla');
+define('_select_requests_type', 'Seleziona il tipo di richieste!');
+define('_No_record', 'Nessun record da mostrare!');
+define('_Add_info', 'Informazioni aggiuntive');
+// define('_', 'Nessuno');
+// define('_', 'Nessuno');
+// define('_', 'Nessuno');
+// define('_', 'Nessuno');
+// define('_', 'Nessuno');
+// define('_', 'Nessuno');
+// define('_', 'Nessuno');
+// define('_', 'Nessuno');
+
+
+
+
+?>

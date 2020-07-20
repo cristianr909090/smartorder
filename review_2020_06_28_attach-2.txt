@@ -1,0 +1,52 @@
+2)	We need a review of the captions in order to show only Italian names.
+Here the words to be changed:
+
+
+Order History:
+
+Order History > Storico Ordini
+Table > Tavolo
+Time > Data Ora
+
+Gestione:
+
+Tab gestione > Sezioni
+
+Name > Nome
+Visible  > Visibile
+Position > Posizione 
+Sequence > Ordine
+Type > Tipo
+Data > Informazioni aggiuntive (solo per tipo * 6 e 7
+Edit > Modifica
+Delete > Cancella
+Add > Aggiungi
+Main > Menu principale
+Main menu > Menu principale
+Right Menu > Menu di destra
+New Menu > Nuova sezione
+
+Modifica prodotto:
+
+_Step_qty: > Passo
+Select from server > Seleziona da galleria
+
+In Delete Category:
+
+Delete Category > Cancella categoria
+Confirm > Conferma
+No > Annulla
+
+
+TAB TYPE:
+
+TYPE 
+0        Pulsante (chiamata cameriere)
+1        Tab Semplice (Lista piana)
+2        Eventi
+3        Tab Carrello/WishList
+4        Tab Gerarchico (Lista ad albero)
+5        Ordini effettuati
+6        Link a sito esterno (solo menu a destra)
+7        IFrame link a sito esterno
+8        About (info servizismart)

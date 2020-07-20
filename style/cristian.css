@@ -1,0 +1,293 @@
+.ui-header .ui-select{
+    width: 100px;
+    position: relative;
+    top: -47px;
+    left: 45px;
+    height: 0;
+}
+.tab_manage_block {
+    margin: 10px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    background: #eee;
+    padding: 20px;
+    min-width: 700px;
+}
+.tab_manage_block label {
+    font-size: 20px;
+    font-weight: 600;
+}
+.tab_row * {
+    display: inline-block;
+    width: 7%;
+    text-align: center;
+}
+.tab_row {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+.head_tab_row{
+    background-color: #ddd;
+}
+.tab_row_col_1 {
+    width: 15%;
+}
+#tabmanagement .far:hover,
+.last_row .tab_row_col_1:hover{
+    cursor: pointer;
+    color: red;
+}
+.tab_row input{
+    margin: 0 30px;
+    width: calc(100% - 60px);
+}
+.tab_row_col_2 input {
+    margin: 0 auto!important;
+    width: 30px!important;
+    }
+#tab_position {
+    margin: 0 15px;
+    width: calc(100% - 30px);
+}
+.tab_row button {
+    width: 50px;
+}
+.tab_manage_block .last_row {
+    background: #ccc;
+}
+.cristian_page {
+    background: #eee;
+}
+.cristian_page .header {
+    background: #e9e9e9;
+    padding: 20px 0 10px;
+    margin-top: -20px;
+    border-bottom: 1px solid #ddd;
+    }
+.cristian_page .header h1 {
+    font-size: 22px;
+    text-align: center;
+    margin: 10px 0 0;
+}
+.cristian_row{
+    margin: 10px 0;
+}
+/* .cristian_row * {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 5px 3%;
+    font-family: sans-serif;
+    width: 94%;
+} */
+/* .cristian_row input, .cristian_row textarea {
+    background: white;
+    text-shadow: inherit;
+    border-color: #ddd;
+    border-radius: 5px;
+    line-height: 35px;
+    padding-left: 10px;
+} */
+.cristian_row textarea {
+    height: 90px;
+}
+.product_img_l,
+.product_img_h{
+    margin: 10px;
+    display: inline-block;
+}
+.product_img_l{
+    width: 100px;
+    height: 100px;;
+}
+.img_crop_upload_div,
+#hidden_max_sequence,
+.cristian_hidden,
+#myDropdown{
+    display: none;
+}
+#change_img_select {
+    /* width: 300px; */
+    margin-top: 30px;
+}
+.category_list{
+    display: none;
+    position: absolute;
+    background: white;
+    border: 1px solid grey;
+    margin-top: -3px;
+    height: 250px;
+    overflow-y: scroll;
+    width: 98%;
+}
+.category_list a{
+    margin: 0;
+    width: 100%;
+    padding: 10px 30px;
+    text-decoration: none;
+    display: block;
+}
+.category_list a:hover{
+    background: #eee;
+}
+/* .update_or_save {
+    margin: 50px 3% 100px;
+    width: 94%;
+    font-size: 26px;
+    padding: 10px;
+} */
+/* #dashboard .ui-content .ui-block-b{
+    height: auto;
+    position: absolute;
+    left: 50%;
+    padding: 0 30px;
+} */
+.ui-content .ui-block-b h4 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    text-align: center;
+}
+#tableSummary tbody tr:hover {
+    cursor: pointer;
+    background: #ccc;
+}
+.order-history-container table {
+    width: 100%;
+}
+.order-history-container table thead td {
+    font-size: 18px;
+    font-weight: 600;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+.order-history-container table tbody tr td {
+    padding: 5px 0;
+}
+/* #dashboard .ui-content .ui-grid-a {
+    min-height: 450px;
+} */
+#dashboard .ui-navbar .ui-block-a .ui-btn-a,
+#tabcat .ui-navbar .ui-block-b .ui-btn-a.test1,
+#tabmanagement .ui-navbar .ui-block-b .ui-btn-a.test1,
+#products .ui-navbar .ui-block-b .ui-btn-a.test1
+{
+    background: #38c!important;
+    color: white;
+}
+.child_selected_tab {
+    background: #38c!important;
+    color: white!important;
+    text-shadow: 0 1px 0 #f3f3f3!important;
+}
+#image_demo {
+    width: 100%!important;
+}
+#imgDropdown,
+#upload_image_div {
+    display: none;
+}
+#imgDropdown a * {
+    display: inline-block;
+}
+.server_select_img {
+    width: 100px;
+    height: 100px;
+}
+#imgDropdown a {
+    text-decoration: none;
+    margin: 10px 0;
+    width: 50%;
+    display: inline-block;
+}
+#imgDropdown a:hover {
+    cursor: pointer;
+    background: #ccc;
+}
+#upload_image_div button {
+    width: 45%;
+    display: inline-block;
+    margin: 20px 2%;
+}
+#imgDropdown {
+    background: #ddd;
+    padding: 30px 0;
+}
+.cristian_page .ui-header.ui-bar-inherit {
+    height: 50px;
+}
+.ui-header .ui-title{
+    font-size: 17px;
+    font-weight: bold;
+}
+#preview {
+    width: 100px;
+    height: 100px;
+}
+#previewH {
+    width: 300px;
+    height: 300px;
+}
+.order-history-container {
+    padding: 10px;
+}
+#tabForm.cristian_tab_manage {
+    overflow-x: scroll;
+    font-size: 12px;
+}
+.tab_row_col_6 {
+    width: 30%;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.fas.fa-plus-circle {
+    margin-right: 10px;
+}
+.tab_row_col_3{
+    width: 10%;
+} 
+.tab_row_col_5{
+    width: 12%;
+}
+#dashboard .ui-content .ui-grid-a>.ui-block-a, 
+#dashboard .ui-content .ui-grid-a>.ui-block-b,
+#dashboard .ui-content .ui-grid-a>.ui-block-c{
+    width: 33.333%!important;
+}
+.ccc_background{
+    background: #ccc;
+}
+.tab_type{
+    min-width: 100px;
+}
+@media (min-width: 768px){
+    .modal-dialog {
+        width: 768px!important;
+    }
+}
+@media (max-width: 768px){
+    #imgDropdown a {
+        width: 100%;
+        display: block;
+    }
+    .category_list{
+        width: 91%;
+    }
+    #dashboard .ui-content .ui-grid-a>.ui-block-a, 
+    #dashboard .ui-content .ui-grid-a>.ui-block-b, 
+    #dashboard .ui-content .ui-grid-a>.ui-block-c {
+        width: 100%!important;
+        display: block;
+        float: unset;
+        margin-bottom: 20px;
+    }
+    .tab_row input {
+        margin: 0 4%;
+        width: 80%;
+    }
+    #tab_position {
+        margin: 0 5px;
+        width: calc(100% - 10px);
+    }
+}

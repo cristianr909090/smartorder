@@ -1,0 +1,19 @@
+in tabs table
+-position
+     0: show in main menu
+     1: right menu
+-type
+    3: cart
+    5: order 
+-tOrder
+    sequence number
+
+
+
+in requests table
+-r_type
+    0: call waiter
+    1: ask bill
+    4: order
+-r_table
+    table id
